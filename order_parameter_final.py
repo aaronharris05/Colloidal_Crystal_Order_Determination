@@ -19,7 +19,7 @@ Created on Sun Aug 26 23:12:43 2018
 #Variable Editor- Change run parameters
 ###############################################################################
 #location of the .txt files
-path = 'C:/Users/Alicia/Documents/Coord-files-03072018vid3/' 
+path = 'C:/Users/User/Documents/Coord-files/' 
 
 #Minimun and Maximum Distance Range for Neighbors 
 min_ = 0                                     
